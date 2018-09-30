@@ -13,6 +13,8 @@ t.forward(50)
 t.left(135)
 t.forward(100)
 
+# move over for next letter
+
 t.penup()
 t.back(100)
 t.right(90)
