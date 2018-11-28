@@ -44,7 +44,7 @@
 
 ## Downloading your project
 
-For getting your project from GitHub to open on your machine.
+For getting your project from GitHub to your machine so you can work on it.
 
 1. Right click on the Desktop and open Git Bash.
 
