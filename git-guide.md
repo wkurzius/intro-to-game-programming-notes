@@ -6,7 +6,7 @@
 
 ## Getting started
 
-1. Create a repository.
+1. Create a repository on GitHub.
 
 2. Once the Quick Setup page appears, minimize (don't close) GitHub and open your project folder on your computer.
 
